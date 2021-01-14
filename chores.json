@@ -1,0 +1,42 @@
+[
+    {
+        "choreId": 0.0,
+        "chore": "make bed",
+        "cost": 1.0
+    },
+    {
+        "choreId": 1.0,
+        "chore": "vaccuum room",
+        "cost": 1.0
+    },
+    {
+        "choreId": 2.0,
+        "chore": "pick up toys",
+        "cost": 1.0
+    },
+    {
+        "choreId": 3.0,
+        "chore": "load dishwasher",
+        "cost": 1.0
+    },
+    {
+        "choreId": 4.0,
+        "chore": "sweep kitchen",
+        "cost": 1.0
+    },
+    {
+        "choreId": 5.0,
+        "chore": "wipe counters",
+        "cost": 1.0
+    },
+    {
+        "choreId": 6.0,
+        "chore": "clean bathroom counter",
+        "cost": 1.0
+    },
+    {
+        "choreId": 7.0,
+        "chore": "clean toilet",
+        "cost": 1.0
+    }
+]
