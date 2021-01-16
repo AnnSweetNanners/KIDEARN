@@ -1,42 +1,434 @@
 [
     {
         "choreId": 0.0,
-        "chore": "make bed",
+        "chore": "Brush teeth",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 1.0,
-        "chore": "vaccuum room",
+        "chore": "Pick up/put away toys",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 2.0,
-        "chore": "pick up toys",
+        "chore": "Assist in making bed",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 3.0,
-        "chore": "load dishwasher",
+        "chore": "Dress self",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 4.0,
-        "chore": "sweep kitchen",
+        "chore": "Collect dirty clothes",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 5.0,
-        "chore": "wipe counters",
+        "chore": "Put dirty clothes in hamper",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 6.0,
-        "chore": "clean bathroom counter",
+        "chore": "Help move clothes from washer to dryer",
+        "Ages": "2-3",
         "cost": 1.0
     },
     {
         "choreId": 7.0,
-        "chore": "clean toilet",
+        "chore": "Fill pet's water and food bowl",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 8.0,
+        "chore": "Help a parent clean up spills",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 9.0,
+        "chore": "Swiffer floors",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 10.0,
+        "chore": "Dust (with parent removing knick-knacks)",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 11.0,
+        "chore": "Wipe cabinets",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 12.0,
+        "chore": "Wipe baseboards",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 13.0,
+        "chore": "Stirring batter in a bowl",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 14.0,
+        "chore": "Pour liquid ingredients",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 15.0,
+        "chore": "Yes/no ma'am and sir",
+        "Ages": "2-3",
+        "cost": 1.0
+    },
+    {
+        "choreId": 16.0,
+        "chore": "Learn to match outfits",
+        "Ages": "4-5",
+        "cost": 1.0
+    },
+    {
+        "choreId": 17.0,
+        "chore": "Match socks in the laundry",
+        "Ages": "4-5",
+        "cost": 1.0
+    },
+    {
+        "choreId": 18.0,
+        "chore": "Fold dish towels",
+        "Ages": "4-5",
+        "cost": 1.0
+    },
+    {
+        "choreId": 19.0,
+        "chore": "Hang towels in the bathroom",
+        "Ages": "4-5",
+        "cost": 1.0
+    },
+    {
+        "choreId": 20.0,
+        "chore": "Wipe out bathroom sinks",
+        "Ages": "4-5",
+        "cost": 1.0
+    },
+    {
+        "choreId": 21.0,
+        "chore": "Bring things from car to house",
+        "Ages": "4-5",
+        "cost": 1.0
+    },
+    {
+        "choreId": 22.0,
+        "chore": "Make bed every day",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 23.0,
+        "chore": "Brush teeth",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 24.0,
+        "chore": "Comb hair",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 25.0,
+        "chore": "Take shower",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 26.0,
+        "chore": "Choose day's outfit and get dressed",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 27.0,
+        "chore": "Wake up with alarm",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 28.0,
+        "chore": "Write thank you notes",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 29.0,
+        "chore": "Gather trash",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 30.0,
+        "chore": "Rake leaves",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 31.0,
+        "chore": "Vacuum rooms",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 32.0,
+        "chore": "Wet mop rooms",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 33.0,
+        "chore": "Fold laundry",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 34.0,
+        "chore": "Put laundry away",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 35.0,
+        "chore": "Change lightbulbs (with supervision)",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 36.0,
+        "chore": "Clean toilet",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 37.0,
+        "chore": "Clean mirror",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 38.0,
+        "chore": "Set table",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 39.0,
+        "chore": "Help prepare food",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 40.0,
+        "chore": "Whisk eggs",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 41.0,
+        "chore": "Frost cakes/cupcakes",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 42.0,
+        "chore": "Use a can opener",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 43.0,
+        "chore": "Grate cheese with hand grater",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 44.0,
+        "chore": "Use pairing or other smallk nives",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 45.0,
+        "chore": "Clean microwave",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 46.0,
+        "chore": "Boil pasta and eggs",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 47.0,
+        "chore": "Fry eggs",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 48.0,
+        "chore": "Make grilled cheese sandwiches",
+        "Ages": "6-8",
+        "cost": 1.0
+    },
+    {
+        "choreId": 49.0,
+        "chore": "Take care of personal hygiene",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 50.0,
+        "chore": "Keep bedroom clean",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 51.0,
+        "chore": "Be responsible for homework",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 52.0,
+        "chore": "Wash/dry clothes",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 53.0,
+        "chore": "Put groceries away",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 54.0,
+        "chore": "Sweep floors and porches",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 55.0,
+        "chore": "Sweep out garage",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 56.0,
+        "chore": "Vacuum house",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 57.0,
+        "chore": "Clean bathrooms",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 58.0,
+        "chore": "Take garbage/recycling to curb",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 59.0,
+        "chore": "Bring in mail",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 60.0,
+        "chore": "Walk dog",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 61.0,
+        "chore": "Wash and vacuum car",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 62.0,
+        "chore": "Hammer nails",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 63.0,
+        "chore": "Deep clean kitchen",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 64.0,
+        "chore": "Make simple meals",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 65.0,
+        "chore": "Cook pancakes on griddle",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 66.0,
+        "chore": "Bake cookies",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 67.0,
+        "chore": "Take foods in and out of oven",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 68.0,
+        "chore": "Learn to use timers and termometers",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 69.0,
+        "chore": "Trim/slice vegetables",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 70.0,
+        "chore": "Learn to use a food processor",
+        "Ages": "9-12",
+        "cost": 1.0
+    },
+    {
+        "choreId": 71.0,
+        "chore": "Use chef's knife",
+        "Ages": "9-12",
         "cost": 1.0
     }
 ]
