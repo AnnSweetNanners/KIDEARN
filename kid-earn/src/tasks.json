@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "clean counters",
+    "picture": "Images/clean-counters.jpg",
+    "age": 5,
+    "frequency": "daily",
+    "location": "kitchen"
+  },
+  {
+    "id": 1,
+    "name": "clean toilet",
+    "picture": "Images/clean-toilet.jpg",
+    "age": 5,
+    "frequency": "weekly",
+    "location": "bathroom"
+  },
+  {
+    "id": 2,
+    "name": "rinse dishes",
+    "picture": "Images/dishes.jpg",
+    "age": 5,
+    "frequency": "daily",
+    "location": "kitchen"
+  },
+  {
+    "id": 3,
+    "name": "load dishwasher",
+    "picture": "Images/load-dishwasher.jpg",
+    "age": 5,
+    "frequency": "daily",
+    "location": "kitchen"
+  },
+  {
+    "id": 4,
+    "name": "make bed",
+    "picture": "Images/make-bed.jpg",
+    "age": 3,
+    "frequency": "daily",
+    "location": "bedroom"
+  },
+  {
+    "id": 5,
+    "name": "mop",
+    "picture": "Images/mop.jpg",
+    "age": 3,
+    "frequency": "weekly",
+    "location": "multiple"
+  },
+  {
+    "id": 6,
+    "name": "sweep",
+    "picture": "Images/sweep.jpg",
+    "age": 3,
+    "frequency": "weekly",
+    "location": "multiple"
+  },
+  {
+    "id": 7,
+    "name": "vacuum",
+    "picture": "Images/vacuum.jpg",
+    "age": 5,
+    "frequency": "weekly",
+    "location": "multiple"
+  }
+]
